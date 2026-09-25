@@ -20,6 +20,6 @@ from fine-tuning to production deployment.
 - 💬 [Chat Agent Platform](https://github.com/kvsabhiram/Conversational_chat-agent-KVS) —
   multi-sector AI chat agents on a local LLM, RAG, and guardrails, replying in ~100 languages.
 - 🌐 [Anuvaad Forge](https://github.com/kvsabhiram/Anuvaad-sentence-generation-agent) —
-  English→Telugu MT corpus-generation pipeline over a 15,490-word vocabulary.
+  English→Indic Languages MT corpus-generation pipeline over a 15,490-word vocabulary.
 
 📫 [LinkedIn](https://www.linkedin.com/in/kurapati-abhiram-b2944123a/) · Hyderabad, India
